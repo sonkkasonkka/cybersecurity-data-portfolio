@@ -37,7 +37,6 @@ Practice with reverse engineering and malware analysis:
 - Malware configuration and memory analysis
 
 ## Tools used
-
 - Burp Suite
 - Wireshark
 - tcpdump
