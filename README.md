@@ -84,7 +84,3 @@ I  have several educational projects with datasets and Python.
 - Python
 - SQL basics
 - AWS basics
-
-
-I am interested in cybersecurity, IT security, risk analysis, data analytics and practical technical tasks.  
-At this stage I am open to different junior or internship opportunities where I can learn, practice and work with real tasks.
