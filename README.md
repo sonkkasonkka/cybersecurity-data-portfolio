@@ -147,6 +147,4 @@ For my current analytics/automation direction, I consider this area as an additi
 - Linux
 - Windows
 - AWS basics
-ote
-
 This portfolio is part of my learning process. I update it as I complete new labs, courses and small practice projects.
