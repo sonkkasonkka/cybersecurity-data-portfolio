@@ -1,6 +1,6 @@
 # Cybersecurity & Data Analytics Portfolio
 
-Hi! My name is Sofiia Kuvavina, and I am a 3rd-year Cybersecurity student at Igor Sikorsky Kyiv Polytechnic Institute.
+Hi! My name is Sofiia Kuvavina, and I am a 4rd-year Cybersecurity student at Igor Sikorsky Kyiv Polytechnic Institute.
 
 This repository contains my academic labs, practice tasks and small learning projects in cybersecurity, data analysis, SQL, networks and web security.
 
