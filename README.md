@@ -1,26 +1,18 @@
 # Cybersecurity & Data Analytics Portfolio
 
-Hi! My name is Sofiia Kuvavina, and I am a 4rd-year Cybersecurity student at Igor Sikorsky Kyiv Polytechnic Institute.
+Hi! My name is Sofiia Kuvavina, and I am a 4th-year Cybersecurity student at Igor Sikorsky Kyiv Polytechnic Institute.
 
-This repository contains my academic labs, practice tasks and small learning projects in cybersecurity, data analysis, SQL, networks and web security.
+This repository contains my academic labs, practice tasks and small learning projects in cybersecurity, data analysis, SQL, networks, cloud and web security.
 
 I am still at the beginning of my professional path, so this portfolio does not represent commercial experience. It shows what I have already practiced during university courses and self-learning, what tools I have worked with, and what areas I am currently developing.
 
-My current focus is on data analysis, SQL, cybersecurity fundamentals and the use of AI/automation tools for practical tasks such as reports, documents, internal processes and working with structured information.
-
-All tasks were completed in controlled academic or training environments.
-
 ### Data Analysis
-
-Educational projects with datasets and Python.
 
 Topics practiced:
 - data cleaning and missing values processing;
 - descriptive statistics;
 - data visualization;
 - correlation analysis;
-- outlier detection;
-- PCA;
 - clustering: KMeans, hierarchical clustering;
 - classification: SVM, KNN, decision tree;
 - regression: multiple linear regression;
@@ -32,8 +24,6 @@ This area is useful for analytics tasks, preparing data, understanding patterns 
 ---
 
 ### Database & SQL Practice
-
-Selected university labs with MS SQL Server.
 
 Topics practiced:
 - database constraints and table modification;
@@ -49,9 +39,21 @@ This area helps me understand how data is stored, connected, checked and used fo
 
 ---
 
-### Web Security Practice
+### AWS Cloud Practice
 
-Practice with common web vulnerabilities and web application security.
+Topics practiced:
+- EC2: instance creation, SSH access, security groups, resource monitoring, tagging;
+- IAM: user creation and access management;
+- S3: bucket creation, file upload/read via Console, CLI and Python, versioning;
+- DynamoDB: table design, CRUD operations, query vs scan, batch loading from JSON;
+- RDS: MySQL deployment, connecting from EC2 and desktop, loading data via Python (pandas/SQLAlchemy);
+- basic automation of EC2/S3/DynamoDB operations with Python scripts.
+
+This area gives me a basic understanding of how cloud infrastructure, access and data storage work together.
+
+---
+
+### Web Security Practice
 
 Topics practiced:
 - SQL Injection;
@@ -68,8 +70,6 @@ This area is useful because it helps me look at digital tools not only from the 
 
 ### Network Security Practice
 
-Practice with computer networks and basic network security.
-
 Topics practiced:
 - traffic analysis with Wireshark and tcpdump;
 - network scanning with Nmap;
@@ -85,8 +85,6 @@ This area gives me a basic understanding of how networks, access rules and techn
 
 ### Security Fundamentals
 
-Basic practice with Linux, Windows and security concepts.
-
 Topics practiced:
 - Linux users, groups and permissions;
 - password hashes;
@@ -101,8 +99,6 @@ This area gives me a foundation for understanding secure work with systems, user
 ---
 
 ### Reverse Engineering & Malware Analysis Basics
-
-Basic educational practice with reverse engineering and malware analysis.
 
 Topics practiced:
 - machine code analysis;
@@ -124,28 +120,4 @@ For my current analytics/automation direction, I consider this area as an additi
   Practical course focused on preparing datasets for analysis, handling missing values and improving data quality.
 
 - **Data Visualization**  
-  Practical course focused on building charts and using visualization to understand data patterns.
-
----
-
-## Tools I Have Practiced With
-
-- Python
-- pandas
-- NumPy
-- scikit-learn basics
-- SQL / MS SQL Server
-- GitHub
-- Burp Suite
-- Wireshark
-- tcpdump
-- Nmap
-- Cisco Packet Tracer
-- Snort
-- Cuckoo Sandbox
-- INetSim
-- Linux
-- Windows
-- AWS basics
----
-This portfolio is part of my learning process. I update it as I complete new labs, courses and small practice projects.
+  Practical course focused on building charts and using visualization to understand data
