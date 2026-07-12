@@ -4,7 +4,7 @@ Hi! My name is Sofiia Kuvavina, and I am a 4th-year Cybersecurity student at Igo
 
 This repository contains my academic labs, practice tasks and small learning projects in cybersecurity, data analysis, SQL, networks, cloud and web security.
 
-I am still at the beginning of my professional path, so this portfolio does not represent commercial experience. It shows what I have already practiced during university courses and self-learning, what tools I have worked with, and what areas I am currently developing.
+I am still at the beginning of my professional path, so this portfolio doesn't represent commercial experience. It shows what I have already practiced during university courses and self-learning, what tools I have worked with, and what areas I am currently developing.
 
 ### Data Analysis
 
