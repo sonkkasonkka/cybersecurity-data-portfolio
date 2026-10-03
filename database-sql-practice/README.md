@@ -1,9 +1,9 @@
-Data Analysis Practice
+# Database and SQL Practice
 
-Academic projects covering data cleaning, statistical analysis, A/B testing and machine learning.
+Academic projects focused on querying, managing and securing databases in Microsoft SQL Server.
 
-Topics include K-means clustering, SVM and KNN classification, multiple linear regression and decision trees.
+Topics include table constraints, SELECT queries, subqueries, views, stored procedures, triggers and database security.
 
-Tools: Python, pandas, NumPy, scikit-learn.
+**Tools:** Microsoft SQL Server, SQL.
 
-The folder contains eight PDF reports documenting the practical work.
+The folder contains seven PDF reports with practical examples.
